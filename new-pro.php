@@ -191,7 +191,7 @@ require "php.php";
      <!-- Image Section -->
  <div class="row mt-5">
     <div class="col-md-12">
-        <h2> please visit our works.</h2>
+        <h2> please visit our more works.</h2>
         <div class="card">
             <div class="customer-list" id="imageContainer1">
             <ul class="customer-grid"> 
@@ -435,14 +435,14 @@ require "php.php";
                 <div class="col-md-4">
                     <h5>Contact Info</h5>
                     <ul class="list-unstyled" id="contact">
-                        <li><i class="fas fa-map-marker-alt"></i> 123 CRM Street, City, Country</li>
-                        <li><i class="fas fa-phone"></i> +123 456 7890</li>
-                        <li><i class="fas fa-envelope"></i> info@crm.com</li>
+                        <li><i class="fas fa-map-marker-alt"></i> ADDIS ABABA, ETHIOPIA</li>
+                        <li><i class="fas fa-phone"></i> +2519191919</li>
+                        <li><i class="fas fa-envelope"></i> beka@gmail.com</li>
                     </ul>
                 </div>
             </div>
             <hr>
-            <p class="mb-0">© 2023 CRM System. All rights reserved.</p>
+            <p class="mb-0">© 2025 CRM System. All rights reserved.</p>
         </div>
     </footer>
 
