@@ -53,11 +53,11 @@ setupImageSwapping(
 );
 
 function editCustomer(id) {
-    alert(`Edit customer with ID: ${id}`);
+    alert(`Edit customer with ID!: ${id}`);
 }
 
 function deleteCustomer(id) {
-    if (confirm("Are you sure you want to delete this customer?")) {
-        alert(`Delete customer with ID: ${id}`);
+    if (confirm("Are you sure you want to delete this customer now?")) {
+        alert(`Deleted customer with ID: ${id}`);
     }
 }
