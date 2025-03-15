@@ -32,17 +32,17 @@ body {
 .card {
     margin-bottom: 20px;
     border: none;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 10px 10px rgba(53, 51, 51, 0.1);
     background-color: rgba(255, 255, 255, 0.8);
 }
 
 .card-header {
-    background-color: green;
+    background-color: rgb(103, 160, 103);
     color: #fff;
 }
 
 .form-control {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .profile-pic {
@@ -54,7 +54,7 @@ body {
 
 footer {
     background-color: dimgray;
-    color: #fff;
+    color: #e7dada;
     padding: 20px 0;
     margin-top: auto;
 }
@@ -66,7 +66,7 @@ footer a {
 
 footer a:hover {
     text-decoration: none;
-    background-color: blue;
+    background-color: rgb(79, 79, 224);
 }
 
 .search-bar {
@@ -74,7 +74,7 @@ footer a:hover {
 }
 
 /* Responsive Styles */
-@media (max-width: 768px) {
+@media (max-width: 760px) {
     .container {
         flex-direction: column;
     }
@@ -92,9 +92,9 @@ footer a:hover {
 }
 
 .customer-item {
-    background-color: #f8f9fa;
-    border-radius: 5px;
-    padding: 10px;
+    background-color: #e8e9eb;
+    border-radius: 10px;
+    padding: 200px;
     text-align: center;
     width: 100%; /* Adjusted for responsiveness */
 }
@@ -106,7 +106,7 @@ footer a:hover {
 }
 
 #navbarNav ul li a:hover {
-    background-color: black;
+    background-color: rgb(30, 28, 28);
 }
 
 #about #about_us {
