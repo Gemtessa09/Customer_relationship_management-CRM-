@@ -67,7 +67,7 @@ require "php.php";
                 </ul>
                 <!-- Search Bar -->
                 <form class="d-flex search-bar" method="GET" action="">
-                    <input class="form-control me-2" type="search" name="search" placeholder="Search customers" aria-label="Search">
+                    <input class="form-control me-2" type="search" name="search" placeholder="Search customers..." aria-label="Search">
                     <button class="btn btn-outline-light" type="submit">Search</button>
                 </form>
                 
@@ -98,7 +98,7 @@ require "php.php";
 
     <div class="row mt-5">
     <div class="col-md-12">
-        <h2>our team Images</h2>
+        <h2>0ur team Images</h2>
         <div class="card">
             <div  class="customer-list" id="imageContainer">
             <ul class="customer-grid"> 
@@ -435,14 +435,14 @@ require "php.php";
                 <div class="col-md-4">
                     <h5>Contact Info</h5>
                     <ul class="list-unstyled" id="contact">
-                        <li><i class="fas fa-map-marker-alt"></i> 123 CRM Street, City, Country</li>
-                        <li><i class="fas fa-phone"></i> +123 456 7890</li>
-                        <li><i class="fas fa-envelope"></i> info@crm.com</li>
+                        <li><i class="fas fa-map-marker-alt"></i> harar, oromia, Ethiopia</li>
+                        <li><i class="fas fa-phone"></i> +251919191919</li>
+                        <li><i class="fas fa-envelope"></i> BEKKA20@gmail.com</li>
                     </ul>
                 </div>
             </div>
             <hr>
-            <p class="mb-0">© 2023 CRM System. All rights reserved.</p>
+            <p class="mb-0">© 2025 CRM System. All rights reserved.</p>
         </div>
     </footer>
 
