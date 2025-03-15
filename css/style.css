@@ -126,18 +126,3 @@ footer a:hover {
     height: auto;
 }
 /* Responsive Styles for larger screens */
-@media (min-width: 769px) {
-    .customer-grid {
-        flex-direction: row; /* Align images in a row */
-        justify-content: center; /* Center images in the row */
-    }
-
-    .customer-list {
-        flex: 1; /* Allow the list to take available space */
-    }
-
-    .customer-list img {
-        width: 622px; /* Set a fixed width for images */
-        height: auto; /* Maintain aspect ratio */
-    }
-}
