@@ -11,3 +11,9 @@ this project is group project.
 3, GUDETA TOLOSA       0493/15
 4, IDRIS ELMI          0571/15
 5, NEJASH ANUWAR       0855/15
+
+
+THANK YOU OUR LEACTURE 👌🙏🏼
+AND THANK YOU OUR TIME 👍🏼👍🏼👍🏼
+IT IS AMAZING THINK WE SEE THE FIRST TIME AS WE WORK🐦‍🔥🐦‍🔥🐦‍🔥🐦‍🔥🐦‍🔥🛝🛝🛝🛝🛝🛝🛝
+
