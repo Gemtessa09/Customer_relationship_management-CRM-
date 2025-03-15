@@ -413,38 +413,7 @@ require "php.php";
 
 
     <!-- Footer -->
-    <footer class="text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <h5>Quick Links</h5>
-                    <ul class="list-unstyled">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#about">About Us</a></li>
-                        <li><a href="#contact">Contact</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <h5>Follow Us</h5>
-                    <ul class="list-unstyled">
-                        <li><a href="#"><i class="fab fa-facebook"></i> Facebook</a></li>
-                        <li><a href="#"><i class="fab fa-twitter"></i> Twitter</a></li>
-                        <li><a href="#"><i class="fab fa-instagram"></i> Instagram</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <h5>Contact Info</h5>
-                    <ul class="list-unstyled" id="contact">
-                        <li><i class="fas fa-map-marker-alt"></i> harar, oromia, Ethiopia</li>
-                        <li><i class="fas fa-phone"></i> +251919191919</li>
-                        <li><i class="fas fa-envelope"></i> BEKKA20@gmail.com</li>
-                    </ul>
-                </div>
-            </div>
-            <hr>
-            <p class="mb-0">© 2025 CRM System. All rights reserved.</p>
-        </div>
-    </footer>
+   
 
 
 

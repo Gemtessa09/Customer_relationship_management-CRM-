@@ -53,7 +53,7 @@ setupImageSwapping(
 );
 
 function editCustomer(id) {
-    alert(`Edit customer with ID: ${id}`);
+    alert(`Edit customer with ID!: ${id}`);
 }
 
 function deleteCustomer(id) {
