@@ -11,8 +11,6 @@ This project is a simple Customer Relationship Management (CRM) system designed 
 - Backend powered by PHP to handle form submissions and interact with the MySQL database  
 - Data storage and retrieval using MySQL  
 
-
-
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
